@@ -1,12 +1,12 @@
 # Bootstrap including:
 
-node.js
--expressjs
--socket.io
-backbonejs
--jQuery
--Underscorejs
--require.js
+- node.js
+- expressjs
+- socket.io
+- backbonejs
+- jQuery
+- Underscorejs
+- require.js
 
 
 ### CSS
