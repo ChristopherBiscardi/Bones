@@ -1,9 +1,11 @@
-# Bootstrap including:
+# Bootstrap:
 
-- ### node.js
+## includes
+
+### node.js
 - expressjs
 - socket.io
-- ### backbonejs
+### backbonejs
 - jQuery
 - Underscorejs
 - require.js
