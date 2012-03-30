@@ -1,0 +1,21 @@
+{
+    "name": "Bones"
+  , "version": "0.0.1"
+  , "author": "Christopher Biscardi <biscarch@sketcht.com>"
+  , "description": "Bootstrap repository using node, express and backbone"
+  , "contributors": [ 
+    {
+      "name": "Christopher Biscardi",
+      "email": "biscarch@sketcht.com"
+    } 
+  ]
+  , "private": true
+  ,   "scripts": {
+    "start": "node app.js",
+    "test": "vows --spec --isolate"
+  }
+  , "dependencies": {
+      "express": "2.5.8"
+    , "jade": ">= 0.0.1"
+  }
+}
