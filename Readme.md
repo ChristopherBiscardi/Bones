@@ -3,8 +3,8 @@
 ## includes
 
 ### node.js
-- expressjs
-- socket.io
+* expressjs
+* socket.io
 
 ### backbonejs
 - jQuery
